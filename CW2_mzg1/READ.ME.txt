@@ -1,0 +1,6 @@
+Please unzip the application, open in IntelliJ IDEA
+Go to the resources folder > application.properties. 
+Please adjust the SQL connection url, username and password on lines 5,6,7 to match your preference. 
+This is a create drop schema, so doesn't require any existing data.
+Then please press the run sign. I have left some commented out code at the bottom of "Cw2Application" to create mock users and petitions, if you would like to utilise that.
+The admin's credentials are hardcoded in.
