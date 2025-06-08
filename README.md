@@ -1,5 +1,5 @@
 # Petition-Platform-CO3102
-An interactive Java Spring Boot web application with a REST API. Uses Bootstrap and AJAX.
+An interactive Java Spring Boot web application with a REST API. Uses Bootstrap and AJAX. Made in Dec 2024
 
 Some images of the work:
 
